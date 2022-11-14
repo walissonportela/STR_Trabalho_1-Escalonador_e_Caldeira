@@ -1,4 +1,4 @@
-/****	CONTROLE  DE UMA CALDEIRA ****/
+/****	CONTROLE DE UMA CALDEIRA ****/
   
   /* Trabalho 01 - Disciplina: Software em Tempo Real */
   /* Professor: Reuber Regis
