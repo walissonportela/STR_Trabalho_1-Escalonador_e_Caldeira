@@ -1,0 +1,1484 @@
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 0.000000
+Valor nivel: 0.000000
+
+_________Medicoes__________
+Valor temperatura: 20.048349
+Valor nivel: 1.997500
+
+_________Medicoes__________
+Valor temperatura: 20.081646
+Valor nivel: 1.970000
+
+_________Medicoes__________
+Valor temperatura: 20.118503
+Valor nivel: 1.940000
+
+_________Medicoes__________
+Valor temperatura: 20.149653
+Valor nivel: 1.915000
+
+_________Medicoes__________
+Valor temperatura: 20.203553
+Valor nivel: 1.872500
+
+_________Medicoes__________
+Valor temperatura: 20.242339
+Valor nivel: 1.842500
+
+_________Medicoes__________
+Valor temperatura: 20.285076
+Valor nivel: 1.810000
+
+_________Medicoes__________
+Valor temperatura: 20.318474
+Valor nivel: 1.785000
+
+_________Medicoes__________
+Valor temperatura: 20.355755
+Valor nivel: 1.757500
+
+_________Medicoes__________
+Valor temperatura: 20.390156
+Valor nivel: 1.732500
+
+_________Medicoes__________
+Valor temperatura: 20.428573
+Valor nivel: 1.705000
+
+_________Medicoes__________
+Valor temperatura: 20.446241
+Valor nivel: 1.692500
+
+_________Medicoes__________
+Valor temperatura: 20.503664
+Valor nivel: 1.652500
+
+_________Medicoes__________
+Valor temperatura: 20.543952
+Valor nivel: 1.625000
+
+_________Medicoes__________
+Valor temperatura: 20.581172
+Valor nivel: 1.600000
+
+_________Medicoes__________
+Valor temperatura: 20.622791
+Valor nivel: 1.572500
+
+_________Medicoes__________
+Valor temperatura: 20.669030
+Valor nivel: 1.545000
+
+_________Medicoes__________
+Valor temperatura: 20.708252
+Valor nivel: 1.517500
+
+_________Medicoes__________
+Valor temperatura: 20.782619
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 20.921107
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.059359
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.183584
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.335156
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.472703
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.610015
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.747093
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 21.883938
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.020549
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.156928
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.293074
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.428988
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.578226
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.713655
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.848852
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 22.983820
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.118557
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.253065
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.387343
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.521393
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.655214
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.802154
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 23.935497
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.068613
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.201502
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.334164
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.466601
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.598811
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.730797
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.862557
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 24.994094
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.125405
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.256494
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.387359
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.518000
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.648420
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.778617
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 25.908592
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.038346
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.167878
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.297190
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.426282
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.555153
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.683805
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.812238
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 26.940452
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 27.068448
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 27.196225
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 27.323785
+Valor nivel: 1.501250
+
+_________Medicoes__________
+Valor temperatura: 27.451175
+Valor nivel: 1.500063
+
+_________Medicoes__________
+Valor temperatura: 27.578454
+Valor nivel: 1.498813
+
+_________Medicoes__________
+Valor temperatura: 27.705622
+Valor nivel: 1.497563
+
+_________Medicoes__________
+Valor temperatura: 27.832678
+Valor nivel: 1.496313
+
+_________Medicoes__________
+Valor temperatura: 27.959623
+Valor nivel: 1.495063
+
+_________Medicoes__________
+Valor temperatura: 28.076958
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.203496
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.294780
+Valor nivel: 1.496313
+
+_________Medicoes__________
+Valor temperatura: 28.420935
+Valor nivel: 1.495063
+
+_________Medicoes__________
+Valor temperatura: 28.524128
+Valor nivel: 1.496313
+
+_________Medicoes__________
+Valor temperatura: 28.662461
+Valor nivel: 1.495063
+
+_________Medicoes__________
+Valor temperatura: 28.764891
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.890252
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.991951
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.995508
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.002809
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.002649
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.999885
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.004718
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.002021
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.001861
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.996636
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.996476
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.003772
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.003612
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.000842
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.003145
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.000377
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.002681
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.999917
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.004750
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.002053
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.001893
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 28.996668
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.996508
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.003804
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.003644
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.000874
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.995638
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 29.000409
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.995175
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.999948
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 29.004782
+Valor nivel: 1.494938
+
+_________Medicoes__________
+Valor temperatura: 29.002068
+Valor nivel: 1.496188
+
+_________Medicoes__________
+Valor temperatura: 28.994387
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.996683
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.989006
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 29.003819
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.996136
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.993362
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.995669
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.992898
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.995205
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 28.992437
+Valor nivel: 1.496063
+
+_________Medicoes__________
+Valor temperatura: 29.002259
+Valor nivel: 1.496500
+
+_________Medicoes__________
+Valor temperatura: 29.004555
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006861
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001637
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003934
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006242
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.007278
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003236
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006800
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002762
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006328
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002293
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004588
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006894
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001670
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003967
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006274
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.007310
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003268
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006833
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002794
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006359
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002324
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004619
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006925
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001701
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003998
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006306
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.007341
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003299
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006863
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002824
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006390
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002354
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004650
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006955
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001731
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004028
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006335
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.007371
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003328
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006893
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002854
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006419
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002383
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004678
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006984
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001759
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.004056
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006364
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.007399
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.003356
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.006921
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 28.997897
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.005192
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.002424
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 28.997196
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 28.999499
+Valor nivel: 1.496250
+
+_________Medicoes__________
+Valor temperatura: 29.001784
+Valor nivel: 1.496000
+
+_________Medicoes__________
+Valor temperatura: 28.996557
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988824
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.003634
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988370
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.009676
+Valor nivel: 1.495687
+
+_________Medicoes__________
+Valor temperatura: 28.998392
+Valor nivel: 1.495687
+
+_________Medicoes__________
+Valor temperatura: 29.005671
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989595
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.003153
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990622
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.004175
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.992694
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.998722
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.987470
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.999754
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988495
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.002252
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990977
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.005793
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989716
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.003274
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990742
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.004295
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.992813
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.998841
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.987588
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.001351
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990082
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.997368
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989630
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.996918
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989183
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.996473
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988740
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.002496
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.991219
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.006034
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989956
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.003512
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990979
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.004531
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.993048
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 28.999075
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.987820
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.001582
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.990311
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.005129
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.989058
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.002618
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988609
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.002171
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 28.988161
+Valor nivel: 1.496562
+
+_________Medicoes__________
+Valor temperatura: 29.001724
+Valor nivel: 1.495312
+
+_________Medicoes__________
+Valor temperatura: 29.000215
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 29.001264
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 28.999761
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 28.990743
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 29.002242
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 29.003283
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 29.003267
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 29.004304
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 29.005337
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 28.991321
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 28.993855
+Valor nivel: 1.496187
+
+_________Medicoes__________
+Valor temperatura: 28.993829
+Valor nivel: 1.494937
+
+_________Medicoes__________
+Valor temperatura: 28.996349
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988584
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.993342
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.983050
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987820
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.992583
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.982296
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.984503
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.989257
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987753
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.983706
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988473
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.993231
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.982939
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987711
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.992474
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.982159
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.984367
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.989123
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987619
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.983573
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988341
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.993100
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.982809
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987581
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.989795
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988288
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.984237
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988993
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.987490
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.983445
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.988214
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.992974
+Valor nivel: 1.496125
+
+_________Medicoes__________
+Valor temperatura: 28.995188
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.999960
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.002175
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.994410
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.996619
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.001375
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.006131
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.995838
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.000606
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.005366
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.995078
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.999823
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.002039
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.994274
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.996485
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.001241
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.005998
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.995705
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.000475
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.005235
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.994949
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.997154
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.001907
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 28.994144
+Valor nivel: 1.495625
+
+_________Medicoes__________
+Valor temperatura: 29.005156
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.997409
+Valor nivel: 1.495813
+
+_________Medicoes__________
+Valor temperatura: 29.004715
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.988157
+Valor nivel: 1.495813
+
+_________Medicoes__________
+Valor temperatura: 29.001718
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.997666
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.003717
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.994677
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005742
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.989187
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.995236
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.998764
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.004810
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.995763
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.999254
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005290
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.996259
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.999780
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005821
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.996813
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.000338
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.993855
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.997381
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.000872
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.994384
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.997872
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.988847
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.994881
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.998400
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.989388
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.995436
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.998962
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005007
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.996004
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.999494
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005530
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.996497
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.999994
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.006034
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.997025
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.000548
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.994065
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.997589
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.001079
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.994590
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.998076
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.989051
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.995083
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.998579
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.989566
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.995613
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.005385
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.990111
+Valor nivel: 1.495813
+
+_________Medicoes__________
+Valor temperatura: 29.002425
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.999667
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.004416
+Valor nivel: 1.494563
+
+_________Medicoes__________
+Valor temperatura: 28.989124
+Valor nivel: 1.495813
+
+_________Medicoes__________
+Valor temperatura: 29.000164
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 28.991130
+Valor nivel: 1.495813
+
+_________Medicoes__________
+Valor temperatura: 29.001086
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.001086
+Valor nivel: 1.495188
+
+_________Medicoes__________
+Valor temperatura: 29.001086
+Valor nivel: 1.495188
+
