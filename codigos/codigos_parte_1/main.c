@@ -22,7 +22,7 @@ struct PCD{
 int i, j;
 int metodo;
 	
-//A main deve receber o arquivo declarado no momento da ezecução;	
+//A main deve receber o arquivo declarado no momento da execução;	
 int main(int argc, char *argv[]){
 	
 
