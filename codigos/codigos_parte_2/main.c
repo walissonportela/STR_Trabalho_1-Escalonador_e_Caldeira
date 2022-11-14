@@ -33,6 +33,7 @@ double usuario_nivel = 0;
 double tempo_ini = 0;
 
 
+
 /***** ---------- FUNCOES QUE REALIZAM OS REQUISITOS ---------- ****/
 
 /***** ---------- 1º e 3º Requisito - Cria uma tarefa que controla a temperatura  com a ajuda dos atuadores ---------- *****/
@@ -555,7 +556,6 @@ void thread_le_sensor(void) {
 
 
 /***** ---------- INICIO DA FUNCAO PRINCIPAL ---------- *****/
-
 int main( int argc, char *argv[]) {
 	//Cria socket
 	cria_socket(argv[1], atoi(argv[2]));
@@ -582,3 +582,4 @@ int main( int argc, char *argv[]) {
 	pthread_join( tempo_resposta_buffd, NULL);
 	pthread_join( thread_gravacao, NULL);
 }
+/***** ---------- FIM DA FUNCAO PRINCIPAL ---------- *****/
