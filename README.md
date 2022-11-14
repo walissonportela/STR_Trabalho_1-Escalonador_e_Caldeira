@@ -1,8 +1,8 @@
 # SBL0092 - SOFTWARE EM TEMPO REAL (2022.2 - T01)
-## SIMULADOR DE ESCALONEMANTO DE TAREFAS PARA RM E EDF
+## SIMULADOR DE ESCALONAMENTO DE TAREFAS PARA RM E EDF
 
-- Para executar o programa dentro do terminal do computador é importante lebrar que a função `main` de nosso
-arquivo no formato `.c` recebe o arquivo por argumentos `(argv[1])` e para sua execução precisamos utilizar
+- Para executar o programa dentro do terminal do computador é importante lembrar que a função `main` de nosso
+arquivo no formato `.c` recebe o arquivo por argumentos `(argv[1])` e para sua execução precisamos utilizar de
 uma forma diferente. Siga o passo a passo para conseguir `executar` nosso programa:
 
 **1° - *Abra a pasta do arquivo dentro do prompt de comando (recomendo usar o comando "cd")*;**
@@ -18,10 +18,10 @@ uma forma diferente. Siga o passo a passo para conseguir `executar` nosso progra
 **4° - *Repita o passo 3 para cada arquivo de sistema*.**
 
 - Ao entrar no programa você terá em tela o arquivo lido e um pequeno menu onde pode-se fazer dois tipos de
-escalomento, Rate Monotonic (RM) e Earliest Deadline First (EDF). Ao selecionar a opção desejada será mos-
+escalonamento, Rate Monotonic (RM) e Earliest Deadline First (EDF). Ao selecionar a opção desejada será mos-
 trado em tela a linha de tempo e a tarefa executada em cada instante de tempo pelo processador.
 
-## CONTROLE E SUPERVISÃO DE UMM SISTEMA DE CALDEIRA SIMULADO
+## CONTROLE E SUPERVISÃO DE UM SISTEMA DE CALDEIRA SIMULADO
 
 **1° - *Executar o simulador dado por `Aquecedor2021.jar` clicando duas vezes nele ou abrindo no terminal pelo seguinte comando*:**
 
