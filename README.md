@@ -23,7 +23,7 @@ trado em tela a linha de tempo e a tarefa executada em cada instante de tempo pe
 
 ## CONTROLE E SUPERVISÃO DE UMM SISTEMA DE CALDEIRA SIMULADO
 
-**1° - *Executar o simulador dado por `Aquecedor.jar` clicando duas vezes nele ou abrindo no terminal pelo seguinte comando*:**
+**1° - *Executar o simulador dado por `Aquecedor2021.jar` clicando duas vezes nele ou abrindo no terminal pelo seguinte comando*:**
 
     java -jar Aquecedor2021.jar <numero-porta-escutada>
     
